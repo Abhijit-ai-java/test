@@ -1,0 +1,21 @@
+#
+date:@1
+Time:@2
+Month:@4
+Year:@5
+serial number:@6000000@6
+Date:@8
+Op1:@C
+OP2:@B
+Week Day:@X
+Order no:@I
+Batch Number:@J
+LOT no:@K
+Operator Number:@H
+Julian Day:@Y
+Week NO:@N
+@Z	
+@L
+@M
+@R
+#
